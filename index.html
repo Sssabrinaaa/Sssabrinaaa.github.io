@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+    <title>PvdA</title>
+
+ <img src="https://www.pvda.nl/wp-content/themes/pvdanl/graphics/logo.svg" alt=""width="200"height=""> <h2> &nbsp &nbsp &nbsp &nbsp &nbsp Standpunt &nbsp &nbsp &nbsp Activiteiten &nbsp &nbsp &nbsp Politici &nbsp &nbsp &nbsp Contact &nbsp &nbsp &nbsp Word Lid </h2>
+
+<img src="https://cdn.nieuweoogst.nu/public/image/960x431/177621.jpg" alt=""width="1355"height="550">
+  </head>
+</html>
+<br>
+<br>
+<br>
+<html>
+   <h1> <strong>Hier staan wij voor</strong> </h1>
+<br>
+<table>
+  <tr>
+    <td>
+    <img src="https://bilder.t-online.de/b/88/41/18/40/id_88411840/920/tid_da/eine-pflanze-waechst-aus-euro-muenzen-die-ein-mann-in-haenden-haelt-symbolbild-auch-die-art-wie-sie-ihr-geld-anlegen-hat-folgen-fuer-das-klima-.jpg" alt=""width="500"height="300">
+    <h1> Goed werk en een eerlijke economie  &nbsp &nbsp &nbsp</h1>
+    De PvdA wil werken aan een samenleving waarin mensen weer centraal staan. <br>Waarin plezier in ons werk voorop staat en we het eerlijk belonen.<br>
+    <a href="https://www.pvda.nl/verkiezingen/verkiezingsprogramma/werk-en-economie/">> Ons plan</a>
+  </td>
+
+    <td>
+      <img src="https://www.manners.nl/wp-content/uploads/2019/05/maximaal-aantal-kopjes-koffie-per-dag-onderzoek.jpg" alt=""width="500"height="300">
+      <h1> Liefdevolle zorg </h1>
+      Je weet nooit wanneer je liefdevolle zorg nodig hebt. Maar je moet er op<br> kunnen rekenen als het zover is. De zorg moet betaalbaar zijn en beschikbaar<br> voor iedereen. En we moeten gezond leven stimuleren.<br>
+      <a href="https://www.pvda.nl/verkiezingen/verkiezingsprogramma/zorg/">>Ons plan</a>
+    </td>
+  </tr>
+
+<tr>
+    <td>
+      <img src="https://i-df.unimedias.fr/2017/09/01/ars.jpg" alt=""width="500"height="300">
+      <h1> Onderwijs met gelijke kansen voor <br> ieder kind </h1>
+       Goed onderwijs, van de beste leraren. Dat gunnen we ieder kind. Daarom <br>moeten we fors investeren in beter onderwijs en gelijke kansen voor iedereen.<br>
+       <a href="https://www.pvda.nl/verkiezingen/verkiezingsprogramma/onderwijs/">>Ons plan</a>
+    </td>
+
+    <td>
+      <img src="https://i.etsystatic.com/9807513/r/il/d42f17/2213113385/il_fullxfull.2213113385_e947.jpg" alt=""width="500"height="300">
+      <h1> Volkshuisvesting </h1>
+       Een woning is meer dan een stapel stenen. Het is een thuis, en dat verdient <br>iedereen. Daarom willlen we dat de overheid weer woningen gaat bouwen,<br> introduceren we een 'Prins Bernhard'-belasting, en worden pandjesbazen<br> harder aangepakt.<br>
+       <a href="https://www.pvda.nl/verkiezingen/verkiezingsprogramma/wonen/">>Ons plan</a>
+    </td>
+  </tr>
+</table>
+</br>
+<br>
+<br>
+<br>
+<body>
+  <h1>Lokaal en internationaal</h1>
+</body>
+<table>
+  <tr>
+    <td>
+     <img src="https://www.blumen-fischer-flensburg.de/fileadmin/_processed_/9/5/csm_DSC_5699_12fe245289.jpg" alt=""width="400"height="250">
+     <h1>Lokaal</h1>
+     Iedereen die lid wordt van de partij, is automatisch lid van de afdeling van zijn woonplaats.<br>
+     <a href="https://www.pvda.nl/lokale-afdelingen/">> Ontdek wat jij kan doen</a>
+    </td>
+
+    <td>
+     <img src="https://www.pvda.nl/wp-content/uploads/2020/11/Lena.jpg" alt=""width="400"height="250">
+     <h1>Internationaal</h1>
+     De internationaal secretaris, Lenna Vromans, onderhoudt de internationale contacten van de PvsA.<br>
+     <a href="https://internationaal.pvda.nl/">> Bezoek PvdA internationaal</a>
+    </td>
+
+    <td>
+      <img src="https://www.ispam.nl/wp-content/uploads/2011/05/europese-unie-vlaggen.jpg" alt=""width="400"height="250">
+      <h1>Europa</h1>
+      Paul Tang, Agnes Jongerius, Vera Tax, Mohammed Chahim, Lara Wolters en Thijs Reuten zijn onze Europarlementariers.<br>
+      <a href="https://europa.pvda.nl/">> Ga naar PvdA Europa</a>
+    </td>
+  </tr>
+</table>
+<br>
+<br>
+<br>
+<div>
+  <table>
+    <tr>
+      <td> <h3>Samen bereiken we veel meer dan ieder voor zich.<a href="https://www.pvda.nl/word-lid/"> Word Lid </a></h3> </td>
+    </tr>
+  </table>
+
+</div>
